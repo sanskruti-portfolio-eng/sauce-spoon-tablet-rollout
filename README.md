@@ -23,3 +23,16 @@ Applied project management concepts in planning, stakeholder engagement, schedul
 
 ## About Me
 I have a background in Manufacturing Engineering and am developing my project management skills to support my career growth towards project management roles.
+
+sauce-spoon-tablet-rollout/
+│
+├── README.md
+│
+├── 01-Introduction/
+├── 02-Project-Overview/
+├── 03-Project-Initiation/
+├── 04-Project-Planning/
+├── 05-Project-Execution/
+├── 06-Project-Closing/
+├── 07-Project-Artifacts/
+└── 08-Personal-Closing-Report/
