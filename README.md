@@ -24,15 +24,43 @@ Applied project management concepts in planning, stakeholder engagement, schedul
 ## About Me
 I have a background in Manufacturing Engineering and am developing my project management skills to support my career growth towards project management roles.
 
-sauce-spoon-tablet-rollout/
-│
-├── README.md
-│
-├── 01-Introduction/
-├── 02-Project-Overview/
-├── 03-Project-Initiation/
-├── 04-Project-Planning/
-├── 05-Project-Execution/
-├── 06-Project-Closing/
-├── 07-Project-Artifacts/
-└── 08-Personal-Closing-Report/
+
+# SAUCE & SPOON
+### Tabletop Tablet Rollout
+
+![Project Cover](sauce-spoon-cover.png)
+
+**PROJECT CASE STUDY** · Google Project Management Certificate – Capstone Project
+
+---
+
+| PROJECT DETAILS | |
+|---|---|
+| **Role** | Peta Tsosie – Project Manager |
+| **Project Type** | Pilot Implementation |
+| **Locations** | North & Downtown |
+| **Focus** | Planning & Delivery |
+
+---
+
+## Project Journey
+*Follow the project from initiation to closure.*
+
+| | PROJECT STAGE | WHAT'S INCLUDED |
+|---|---|---|
+| **01** | [Introduction](01-Introduction/) | Project background and my role |
+| **02** | [Project Overview](02-Project-Overview/) | Business need, purpose and objectives |
+| **03** | [Project Initiation](03-Project-Initiation/) | Project charter, SMART goals and stakeholder analysis |
+| **04** | [Project Planning](04-Project-Planning/) | Task brainstorm, timeline, quality plan and customer survey |
+| **05** | [Project Execution](05-Project-Execution/) | Tablet implementation, training and test launch |
+| **06** | [Project Closing](06-Project-Closing/) | Retrospective and project closeout report |
+| **07** | [Project Artifacts](07-Project-Artifacts/) | Supporting documents and deliverables |
+| **08** | [Personal Closing Report](08-Personal-Closing-Report/) | Lessons learned, accomplishments and future goals |
+
+---
+
+## About This Project
+
+This capstone demonstrates the application of project management principles across the project lifecycle, from initiation and planning through execution and closure.
+
+**Note:** This is a simulated project completed as part of the Google Project Management Certificate.
