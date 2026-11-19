@@ -1,3 +1,4 @@
+![Sauce & Spoon – Pilot Tablet Rollout](sauce-spoon-cover.png)
 # Sauce & Spoon – Tablet Rollout Project
 
 ## Project Overview
