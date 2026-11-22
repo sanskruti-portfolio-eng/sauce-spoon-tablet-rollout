@@ -28,7 +28,9 @@ I have a background in Manufacturing Engineering and am developing my project ma
 # SAUCE & SPOON
 ### Tabletop Tablet Rollout
 
-![Project Cover](sauce-spoon-cover.png)
+## Project at a Glance
+
+![Project at a Glance](project-at-a-glance.png)
 
 **PROJECT CASE STUDY** · Google Project Management Certificate – Capstone Project
 
