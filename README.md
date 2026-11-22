@@ -4,6 +4,10 @@
 ## Project Overview
 This project is a capstone case study completed as part of the **Google Project Management Certificate**. It focuses on planning a pilot rollout of tabletop menu tablets across two Sauce & Spoon restaurant locations.
 
+## Professional Certification
+
+![Google Project Management Certificate](google-project-management-badge.png)
+
 ## My Role
 In here, I worked as Peta, the newly hired Project Manager of Sauce & Spoon, leading the pilot launch of tabletop menu tablets in two restaurant locations. Join me as I embark on this project.
 
