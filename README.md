@@ -54,8 +54,7 @@ I have a background in Manufacturing Engineering and am developing my project ma
 | **04** | [Project Planning](04-Project-Planning/) | Task brainstorm, timeline, quality plan and customer survey |
 | **05** | [Project Execution](05-Project-Execution/) | Tablet implementation, training and test launch |
 | **06** | [Project Closing](06-Project-Closing/) | Retrospective and project closeout report |
-| **07** | [Project Artifacts](07-Project-Artifacts/) | Supporting documents and deliverables |
-| **08** | [Personal Closing Report](08-Personal-Closing-Report/) | Lessons learned, accomplishments and future goals |
+| **07** | [Personal Closing Report](08-Personal-Closing-Report/) | Lessons learned, accomplishments and future goals |
 
 ---
 
